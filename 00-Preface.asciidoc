@@ -1,3 +1,4 @@
+Add preface text
 Test
 Line 2
 This is a new change checked in on branch chapter-two
