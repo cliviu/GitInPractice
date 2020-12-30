@@ -1,4 +1,4 @@
 Chapter 2 title
 This a new line to test fetch
 
-New line to test pull rebase
+New line to test pull rebase -- reloaded
